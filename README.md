@@ -6,7 +6,7 @@ Sparse Representation-based Classification, an algorithm in Pattern Recognition 
 +++
 
 Author  : Denglong Pan
-Contact : pandenglong@gmail.com
+          pandenglong@gmail.com
 
 +++
 
