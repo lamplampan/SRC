@@ -1,7 +1,7 @@
 SRC
 ===
 
-Sparse Representation-based Classification, an algorithm in Pattern Recognition area
+Sparse Representation-based Classification, a classifier algorithm in Pattern Recognition area
 
 +++
 
